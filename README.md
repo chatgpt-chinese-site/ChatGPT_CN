@@ -1,12 +1,12 @@
-# ChatGPT 中文版：国内免费指南（支持GPT全系列模型，无需翻墙）【2025/8月最新更新】
+# ChatGPT 中文版：国内免费指南（支持GPT全系列模型，无需翻墙）【2025年9月最新更新】
 
->更新时间: 2025-08-03
+>更新时间: 2025-09-19
 
 最新的 ChatGPT 使用指南，**无需翻墙，轻松使用 ChatGPT 中文版**
 
 本文提供 **ChatGPT 中文版**的使用方法，还推荐多个好用的 **ChatGPT 镜像网站**推荐~
 
-方便在生活、学习和工作中使用上 ChatGPT，并可以**无限使用 GPT-4、4o 和 o1 模型**服务。
+方便在生活、学习和工作中使用上 ChatGPT，并可以**无限使用 GPT-5、4o 和 o1 模型**服务。
 
 ## 📋 目录
 
@@ -40,7 +40,7 @@
 1. **极简AI ([xsimplechat.com](https://xsimplechat.com/))**  
    **ChatGPT 中文版**，提供支持 GPT-4、4o、4o mini 及 o1 的全面服务，包含 AI 绘画功能，使用简便。
 
-2. **lanjingAI ([chat.lanjingai.org](https://chat.lanjingai.org/))**  
+2. **lanjingAI ([ai.lanjingai.org](https://ai.lanjingai.org/))**  
    **ChatGPT 镜像网站**，多功能平台，支持 GPT-4、4o 及 o1，适合各类用户需求。
 
 3. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
